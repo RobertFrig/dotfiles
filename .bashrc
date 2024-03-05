@@ -7,6 +7,7 @@ alias v=nvim
 
 # cd
 alias ..="cd .."
+alias dotfiles="cd ~/dev/dotfiles"
 
 # ls
 alias ls='ls --color=auto'
