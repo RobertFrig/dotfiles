@@ -22,3 +22,6 @@ alias e='exit'
 # git
 alias gp='git pull'
 alias gs='git status'
+
+# ~~~~~~~~~~~~~~~ Exports ~~~~~~~~~~~~~~~
+export PLATFORM='mac'
