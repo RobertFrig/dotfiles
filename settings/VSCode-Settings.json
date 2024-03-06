@@ -1,0 +1,35 @@
+{
+  "workbench.colorTheme": "Predawn",
+  "workbench.iconTheme": "ayu",
+  "editor.fontWeight": "500",
+  "terminal.integrated.fontWeight": "600",
+  "editor.fontSize": 16,
+  "debug.console.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+  "window.zoomLevel": 0,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": false,
+  "code-runner.ignoreSelection": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.executorMap": {
+    "python": "\"$pythonPath\" -u $fullFileName"
+  },
+  "[plaintext]": {
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  },
+  "editor.quickSuggestionsDelay": 100,
+  "editor.minimap.enabled": false,
+  "workbench.settings.openDefaultSettings": true,
+  "workbench.settings.useSplitJSON": false,
+  "workbench.settings.editor": "json",
+  "workbench.startupEditor": "newUntitledFile"
+}
