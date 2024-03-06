@@ -1,8 +1,5 @@
 {
-  "workbench.colorTheme": "Predawn",
   "workbench.iconTheme": "ayu",
-  "editor.fontWeight": "500",
-  "terminal.integrated.fontWeight": "600",
   "editor.fontSize": 16,
   "debug.console.fontSize": 16,
   "terminal.integrated.fontSize": 16,
