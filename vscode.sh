@@ -9,9 +9,10 @@ fi
 
 # Install VS Code Extensions
 extensions=(
-    teabyii.ayu
     formulahendry.code-runner
     esbenp.prettier-vscode
+    monokai.theme-monokai-pro-vscode
+    foxundermoon.shell-format
 )
 
 # Get a list of all currently installed extensions.
