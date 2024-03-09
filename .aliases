@@ -5,7 +5,7 @@ alias v=nvim
 
 ## cd
 alias ..="cd .."
-alias dotfiles="cd ~/dev/dotfiles"
+alias dotfiles="cd ~/dotfiles"
 
 ## finds all files recursively and sorts by last modification, ignore hidden files
 alias last='find . -type f -not -path "*/\.*" -exec ls -lrt {} +'
